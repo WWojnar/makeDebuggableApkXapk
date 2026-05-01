@@ -1,0 +1,8 @@
+__pycache__/
+*.xml
+*.apk
+.old/
+*.keystore
+*.apk.idsig
+makeDebuggable.config.psd1
+work/
